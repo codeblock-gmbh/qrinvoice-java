@@ -11,4 +11,4 @@ https://bitbucket.org/codeblockgmbh/qrinvoice-java/
 
 Offical Product Website: https://www.qr-invoice.ch
 
-Demo Application https://demo.qr-invoice.ch
+Demo Application http://demo.qr-invoice.ch
