@@ -1,6 +1,6 @@
 # QR Invoice for Java
 
-The QR Invoice Library eases the creation and processing of Swiss QR Invoices / Bills.
+The QR Invoice Library eases the creation, scanning processing of Swiss QR Invoices / Bills.
 
 ## Master GIT repository
 
